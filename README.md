@@ -25,7 +25,7 @@ meshlab javapso.asc
 
 You can convert the particle positions to a mesh using meshlab.
 
-The steps are to do a Clustering Decimiation, then Compute normals for point sets, and finally Surface Reconstruction: Screened Poisson.
+The steps are to do a Clustering Decimation, then Compute normals for point sets, and finally Surface Reconstruction: Screened Poisson.
 
 *Notes*
 
